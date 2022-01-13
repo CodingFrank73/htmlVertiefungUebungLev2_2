@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    width: 40%;
+    margin: 10%;
+}
+
+fieldset{
+    padding: 5%;
+}
+
+button{
+    width: 10%;
+    padding:5px 4px;
+}
+.button{
+    margin-top: 2%;
+    border-radius: 10px;
+}
